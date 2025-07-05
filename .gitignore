@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+env/
+venv/
+
+# Environment
+.env
+.env.*
+
+# Docker artifacts
+*.tar
+
+# Logs
+*.log
+
+# SQLite (ถ้ามี)
+*.db
+
+# VS Code / IDE
+.vscode/
+.idea/
